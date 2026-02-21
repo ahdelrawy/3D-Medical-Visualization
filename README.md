@@ -475,12 +475,12 @@ This project is provided as-is for educational purposes. Not intended for clinic
 - [GitHub](https://github.com/RadwaHa)
 - [LinkedIn](https://linkedin.com/in/radwa-hamdy1)
 
-**Project Contributer**:habiba ibrahem
+**Project Contributer**:Habiba Ibrahem
 - Email: habeba.ibrahem2016@gmail.com
 - [GitHub](habebai558-lgtm)
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/habeba-zaki?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-**Project Contributer**:David bahaa
+**Project Contributer**:David Bahaa
 - Email: david.bahaa1974@gmail.com
 - [GitHub](https://github.com/davidbahaa1974)
 - [LinkedIn](https://www.linkedin.com/in/david-bahaa-b15164372/)
@@ -489,4 +489,4 @@ This project is provided as-is for educational purposes. Not intended for clinic
 
 **⭐ If you find this project helpful, please consider giving it a star!**
 
-*Last Updated: November 2024*
+
